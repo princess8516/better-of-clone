@@ -1,0 +1,52 @@
+@media (max-width:600px) {
+    div nav ul{
+       display: none;
+    }
+    .left{
+        width: 100%;
+    }
+    .right{
+        width: 100%;
+      display: row;
+      padding: 20%;
+      padding-left: 2%;
+      font-size: 30px;
+    }
+    .slider{
+        padding: 10%;
+        padding-bottom: 0;
+    }
+    .slider span{
+      
+        font-size: 600%;
+    }
+    .slider img{
+  height: 100px;
+       
+    }   
+    .word{
+        width: 100%;
+        font-size:30px ;
+    }
+    .page{
+        display: flex;
+        flex-direction: column;
+      
+    }
+    .page1{
+        width: 100%;
+    }
+    .page2>p{
+        width: 100%;
+        font-size: 20px;
+    }
+    .page3{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+     
+    }
+    
+    
+    }
